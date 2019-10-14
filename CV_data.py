@@ -82,3 +82,5 @@ print(Abilities)
 # export to csv
 Abilities.to_csv('Skills_monthly.csv')
 
+
+print(Abilities)
