@@ -1,19 +1,25 @@
 Lecture_or_Project,Software,Start,End,hours
 Macroeconomics,,2016 01,2016 05,50
-Microeconomics,,2016 01,2016 05,120
-Statistics,SPSS,2016 03,2016 04,120
-Econometrics,R,2017 10,2017 11,120
-Quantitative Financial Risk,R,2017 09,2018 01,120
-Thesis,R,2018 01,2018 05,150
-Thesis,GIS,2018 01,2018 05,150
-Thesis,ML,2018 03,2018 05,30
+Microeconomics,Statistics & Econometrics,2016 01,2016 05,40
+Statistics,Statistics & Econometrics,2016 03,2016 06,90
+Econometrics,R,2016 10,2017 11,90
+Econometrics,Statistics & Econometrics,2016 10,2017 11,90
+Quantitative Financial Risk,R,2017 09,2018 01,90
+Thesis,R,2018 01,2018 05,90
+Thesis,GIS,2017 10,2018 05,90
+Thesis,Statistics & Econometrics,2017 10,2018 05,20
+Thesis,Machine Learning,2018 03,2018 05,30
 Udemy,Python,2019 05,2019 06,20
 Udacity,Python,2019 07,2019 09,90
-Udacity,ML,2019 07,2019 09,90
-Kaggle,ML,2019 03,2019 06,90
+Udacity,Machine Learning,2019 07,2019 09,90
+Kaggle,Machine Learning,2019 03,2019 06,90
 Udacity,GIT,2019 06,2019 07,20
-Udacity,AI,2019 09,2019 10,30
-Udemy,NLP,2019 08,2019 09,30
+Udacity,Artificial Intelligence,2019 09,2019 10,30
+Udemy,Natural Language Processing,2019 08,2019 09,30
 Udemy,Python,2019 08,2019 09,30
 Udemy,Python,2019 09,2019 10,10
 Udemy,MySQL,2019 10,2019 10,10
+MIT course,Artificial Intelligence,2019 09,2019 10,10
+Udacity,Natural Language Processing,2019 06,2019 07,20
+Projects,GIT,2019 07,2019 10,10
+Sololearn,Python,2019 04,2019 06,30
