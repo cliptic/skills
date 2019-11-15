@@ -75,7 +75,7 @@ data_sorted = data_c[column_list]
 ############################ PLOT 
 
 
-sns.lineplot(data=data_sorted, dashes=False, linewidth=1.3, palette = "Spectral")
+sns.lineplot(data=data_sorted, dashes=False, linewidth=1.3, palette = "husl")
 legend = plt.legend(frameon = False, loc='center right', bbox_to_anchor=(-0.1, 0.6))
 sns.despine(bottom = True, left = True)
 sns.set_context("paper")
